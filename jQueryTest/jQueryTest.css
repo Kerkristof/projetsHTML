@@ -1,0 +1,18 @@
+img{
+  position: relative;
+  margin-bottom: 20px;
+  padding:10px;
+  border: dashed 3px red;
+  left: 100px;
+  height: 100px;
+}
+
+button{
+  position: relative;
+  font-family:monospace;
+  color: rgb(255,255,255);
+  background-color: rgb(190,190,190);
+  width: 100px;
+  height: 30px;
+  left: 100px;
+}
